@@ -1,0 +1,2 @@
+# Plataforma-SIG
+activación-plataforma
